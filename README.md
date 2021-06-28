@@ -7,8 +7,8 @@ This is the official private Credentify service repository.
 Credentify is built on top of a Micro-Credential Meta-data Standard now used by
 the Europass and elements of open source software.
 
-See [CONTRIBUTING.md](https://github.com/0xcert/credentify-app-api/blob/master/
-CONTRIBUTING.md) to learn how to contribute to the project. See here to
-contribute to the Micro-Credential Meta-data Standard:
-<https://github.com/MicroCredentials/MicroHE/blob/master/meta_data_standard
-_draft.md>.
+See [CONTRIBUTING.md][contributing] to learn how to contribute to the project.
+See [here][meta-data-standard] to contribute to the Micro-Credential Meta-data Standard.
+
+[contributing]: https://github.com/0xcert/credentify-app-api/blob/master/CONTRIBUTING.md
+[meta-data-standard]: https://github.com/MicroCredentials/MicroHE/blob/master/meta_data_standard_draft.md
