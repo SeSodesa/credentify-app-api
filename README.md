@@ -13,5 +13,5 @@ See [CONTRIBUTING.md][contributing] to learn how to contribute to the project.
 Refer to the [Micro-Credential Meta-data Standard Draft][meta-data-standard-draft]
 on how to contribute to the meta-data specification.
 
-[contributing]: https://github.com/0xcert/credentify-app-api/blob/master/CONTRIBUTING.md
+[contributing]: https://github.com/MicroCredentials/credentify-app-api/blob/master/CONTRIBUTING.md
 [meta-data-standard-draft]: https://github.com/MicroCredentials/MicroHE/blob/master/meta_data_standard_draft.md
